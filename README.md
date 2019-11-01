@@ -13,7 +13,7 @@ Learning Spring Boot 是一个系统介绍、学习并实战 Spring Boot 的项�
 * master 分支：基于 Spring Boot 版本 2.1.9.RELEASE，不支持 Spring Boot 1.x 版本。
 
 ### 运行方式
-* 从 github 克隆项目到本地: `git clone git@github.com:flanliulf/learningspringboot-helloworld.git` ；
+* 从 github 克隆项目到本地: `git clone git@github.com:flanliulf/learningspringboot-web.git` ；
 * 使用 IDEA 打开下载的项目；
 * maven 自动 import 依赖；
 * 找到各个项目的 启动 Application 主类运行即可。
@@ -21,10 +21,11 @@ Learning Spring Boot 是一个系统介绍、学习并实战 Spring Boot 的项�
 ### 系列计划
 
 #### Spring Boot 入门
-* [构建第一个 Spring Boot 工程](https://github.com/flanliulf/learningspringboot-firstproject)
+* [第一个 Spring Boot 工程](https://github.com/flanliulf/learningspringboot-firstproject)
 
 #### Spring Boot Web
-* [构建第一个 Spring Boot web 工程](https://github.com/flanliulf/learningspringboot-helloworld)
+* [1. 第一个 Spring Boot web 工程](https://github.com/flanliulf/learningspringboot-helloworld)
+* [2. 自定义 Spring Boot Web 项目配置](https://github.com/flanliulf/learningspringboot-web)
 * to be continued
 
 
