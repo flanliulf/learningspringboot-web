@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 类描述:
  *
- *
  * @author : Liu Fan
  * @date : 2019/11/1 15:33
  */
@@ -15,6 +14,6 @@ public class IndexController {
 
     @RequestMapping("/index")
     public String index() {
-        return "hello world";
+        return "hello world world";
     }
 }
