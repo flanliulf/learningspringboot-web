@@ -27,6 +27,7 @@ Learning Spring Boot 是一个系统介绍、学习并实战 Spring Boot 的项�
 * [1. 第一个 Spring Boot web 工程](https://github.com/flanliulf/learningspringboot-helloworld)
 * [2. 自定义 Spring Boot Web 项目配置](https://github.com/flanliulf/learningspringboot-web/tree/custom-configure)
 * [3. Spring Boot 热部署](https://github.com/flanliulf/learningspringboot-web/tree/hot-deployment)
+* [4. Spring Boot 单元测试](https://github.com/flanliulf/learningspringboot-web/tree/unit-test)
 * to be continued
 
 
